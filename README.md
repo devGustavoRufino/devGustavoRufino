@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### <img src="gifs/Hi.gif" width="30px"> <span style="font-size:30px;">*Olá, Mundo!*&nbsp;</span><img src="gifs/Earth.gif" width="27px">
+### <img src="gifs/Hi.gif" width="27px"> <span style="font-size:30px;">*Olá, Mundo!*&nbsp;</span><img src="gifs/Earth.gif" width="27px">
 <br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&pause=1000&color=006AFF&center=true&vCenter=true&width=800&lines=Sejam+Bem-vindos;Me+chamo+Gustavo+Rufino;Tenho+19+anos;Estou+cursando+Análise+e+Desenvolvimento+de+Sistemas;Seja+Bem-vindo!!!)](https://git.io/typing-svg)
