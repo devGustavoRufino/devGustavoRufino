@@ -27,7 +27,7 @@
 ---
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=devGustavoRufino&theme=transparent&show_icons=true"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=devGustavoRufino&theme=transparent&cache_seconds=3600&show_icons=true"/>
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devGustavoRufino&theme=transparent&layout=compact"/>
 </div>
 
