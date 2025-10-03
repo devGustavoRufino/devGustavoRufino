@@ -12,7 +12,7 @@
 
 <div align="start">
 
-<img align="right" alt="PC GIF" src="gifs/PC.gif" width="230px" />
+<img align="right" alt="PC GIF" src="gifs/PC.gif" width="190px" />
 
 ### Sobre Mim
 
