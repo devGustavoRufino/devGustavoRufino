@@ -26,17 +26,11 @@
 
 ---
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=devGustavoRufino&theme=transparent&show_icons=true&cache_seconds=3600">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/&cache_seconds=3600?username=devGustavoRufino&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact&cache_seconds=3600"/>
-  <br>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=devGustavoRufino&show_icons=true&transparent&cache_seconds=3600"
-    media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=devGustavoRufino&show_icons=true&graywhite&cache_seconds=3600"
-    media="(prefers-color-scheme: light),"
-  />
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devGustavoRufino&theme=transparent&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devGustavoRufino&theme=transparent&layout=compact"/>
+</div>
+
 
 ---
 
