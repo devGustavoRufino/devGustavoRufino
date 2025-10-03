@@ -2,9 +2,9 @@
 
 <div align="center">
 
-### <img src="gifs/Hi.gif" width="30px"> **Olá, Mundo!** &nbsp;<img src="gifs/Earth.gif" width="27px">
+### <img src="gifs/Hi.gif" width="30px"> <span style="font-size:30px;">*Olá, Mundo!*&nbsp;</span><img src="gifs/Earth.gif" width="27px">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=006AFF&center=true&vCenter=true&width=800&lines=Sejam+Bem-vindos;Me+chamo+Gustavo+Rufino;Tenho+19+anos;Estou+cursando+Análise+e+Desenvolvimento+de+Sistemas;Seja+Bem-vindo!!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=006AFF&center=true&vCenter=true&width=800&lines=Sejam+Bem-vindos;Me+chamo+Gustavo+Rufino;Tenho+19+anos;Estou+cursando+Análise+e+Desenvolvimento+de+Sistemas;Seja+Bem-vindo!!!)](https://git.io/typing-svg)
 
 </div>
 
