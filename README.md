@@ -5,10 +5,7 @@
 
 ### <img src="gifs/Hi.gif" width="30px"> <span style="font-size:30px;">**Olá, Mundo!**&nbsp;</span><img src="gifs/Earth.gif" width="27px">
 
-<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=006AFF&width=900&size=25&center=true&vCenter=true&lines=Me+chamo+Gustavo+Rufino;Estou+cursando+Análise+e+Desenvolvimento+de+Sistemas;Seja+Bem-vindo!!!" alt="Typing SVG" />
-</div>
-
 
 ##
 
