@@ -20,7 +20,8 @@
 🎓 Estudante de Análise e Desenvolvimento de Sistemas (2º período) no Centro Universitário Tiradentes – PE, pelo programa Embarque Digital.  
 💻 Focado em programação, apaixonado por aprender e sempre explorando novas tecnologias.  
 🚀 Dedicado a evoluir por meio de projetos práticos, aprimorando minhas habilidades e compartilhando conhecimento com a comunidade.
-
+<br>
+<br>
 </div>
 
 ---
