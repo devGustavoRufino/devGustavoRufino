@@ -50,6 +50,7 @@
 ---
 
 <details align="center">
+  <img src="gifs/Point_Down (1).gif" width="30px"> 
   <summary><b>📩 Mais Informações</b></summary>
   <br>
 
