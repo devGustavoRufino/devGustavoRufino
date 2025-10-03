@@ -3,7 +3,7 @@
 
 <div align="center">
 
-### <img src="Hi.gif" width="30px"> <span style="font-size:30px;">**Olá, Mundo!**&nbsp;</span><img src="Earth.gif" width="27px">
+### <img src="gifs/Hi.gif" width="30px"> <span style="font-size:30px;">**Olá, Mundo!**&nbsp;</span><img src="gifs/Earth.gif" width="27px">
 
 </div>
 <div align="center" width="100%">
@@ -13,7 +13,7 @@
 ##
 
 <div align="start" style="color: #006aff;">
-<img align="right" alt="PC GIF" src="PC.gif" width="210px" />
+<img align="right" alt="PC GIF" src="gifs/PC.gif" width="210px" />
 
 ### **Sobre Mim** &nbsp;
 
@@ -72,7 +72,7 @@
 <h3 style="color:#006aff;">
 <details align="center" >
 <br>
-<img src="Point_Down (1).gif" width="30px">  
+<img src="gifs/Point_Down (1).gif" width="30px">  
   <summary>
   <b>Mais Informações<b> 
   <div>
@@ -104,7 +104,7 @@
 
 <div align="center">
 <br>
-  <p align="center"><img align="center" src="Mario_Gameplay.gif" /></p> 
+  <p align="center"><img align="center" src="gifs/Mario_Gameplay.gif" /></p> 
 </div>
 <br>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=006aff&height=100&section=footer"/>
