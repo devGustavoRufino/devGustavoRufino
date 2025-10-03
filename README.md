@@ -6,7 +6,7 @@
 ### <img src="gifs/Hi.gif" width="30px"> <span style="font-size:30px;">**Olá, Mundo!**&nbsp;</span><img src="gifs/Earth.gif" width="27px">
 
 <div align="center" width="100%">
-<img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ff79c6&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;I'm+also+a+Designer;Be+welcome!" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=006aff&width=900&size=25&center=true&lines=Me+chamo+Gustavo+Rufino;Estou+cursando+Análise+e+Desenvolvivento+de+Sistemas;Seja+Bem-vindo!!!" alt="Typing SVG"/>
 </div>
 
 ##
