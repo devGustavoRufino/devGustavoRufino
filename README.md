@@ -70,7 +70,7 @@
 
 ---
 
-<div align="center" widht="20px">
+<div align="center">
   <img src="gifs/Mario_Gameplay.gif" />
 </div>
 
